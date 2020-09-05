@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Grandstander', cursive;
+  
+}
+.heading{
+  background: rgb(34, 31, 31);
+  width: 100%;
+  
+}
+.heading h1{
+  padding: 20px 50px;
+  color: antiquewhite;
+  text-decoration: underline;
+}
+.inp{
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding: 20px 0 10 0px;
+  margin: 20px 0 ;
+  box-shadow: 3px 3px 25px 0px rgba(0,0,0,0.5);
+  
+}
+.comp input{
+  padding: 20px;
+  width: 100%;
+  height: 80px;
+  font-weight: 300px;
+  font-size: 1.9rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  
+}
+.comp textarea{
+  padding: 20px;
+  width: 100%;
+  height: 80px;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  
+}
+Button{
+  float: right;
+  outline: none!important;
+  position: relative;
+  font-size: large;
+  width: 50px;
+}
+.card{
+  
+  min-height: 200px;
+  height: auto;
+
+  box-shadow: 3px 3px 25px 0px rgba(0,0,0,0.5);
+  background-color: whitesmoke;
+  border-radius: 20px;
+}
+.card h1{
+  padding: 15px 5px 15px 10px;
+  font-size: 1.9rem;
+}
+.card p{
+  padding: 1px 5px 5px 10px;
+  font-size: 1.3rem;
+}
