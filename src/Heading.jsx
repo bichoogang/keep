@@ -7,7 +7,7 @@ const Heading =() =>{
   return(
     <>
     <div className="heading">
-        <h1>Keep</h1>
+        <h1>Bichoo Keep</h1>
     </div>
     </>
   )
